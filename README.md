@@ -6,9 +6,9 @@ Welcome to my GitHub! I am a **Data Analyst** with a passion for turning data in
 
 ## 🔍 About Me
 
-- 🎓 Background in data analysis, statistics, and programming.
+- 🎓 Background - CSE, IUBAT
 - 📊 Skilled in data wrangling, exploratory data analysis, and data visualization.
-- 🛠️ Proficient in Python, SQL, and tools like Excel and Tableau.
+- 🛠️ Proficient in Python, SQL, and tools like Excel and Tableau and C++
 - 📈 Interested in learning and implementing machine learning techniques to enhance data analysis.
 
 ## 🚀 Projects and Contributions
@@ -28,9 +28,9 @@ I’m continuously enhancing my knowledge in:
 
 ## 📫 Let's Connect
 
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🌐 Portfolio: [Your Website/Portfolio]
+- 📧 Email: hasanofficial3319@gmail.com
+- 💼 LinkedIn: 
+- 🌐 Portfolio: 
 
 ---
 
