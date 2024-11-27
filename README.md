@@ -25,7 +25,7 @@
 
 ## 🛠️ My Expertise  
 ### Programming Languages:  
-- Python, C++, C  
+- Python, C++, C,Java 
 
 ### Data Science Tools:  
 - Pandas, NumPy, Matplotlib, Seaborn, SQL  
