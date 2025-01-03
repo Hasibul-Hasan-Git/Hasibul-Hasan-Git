@@ -10,7 +10,7 @@
 ---
 
 ## 🌟 About Me  
-- 🧑‍🎓 **3rd-semester Computer Science student** at **IUBAT**, passionate about technology and innovation.  
+- 🧑‍🎓 **4th-semester Computer Science student** at **IUBAT**, passionate about technology and innovation.  
 - 🌱 Currently diving deep into **Data Science**, **Machine Learning**, and **NumPy**.  
 - 💡 Thrives on solving real-world problems through **code** and **data-driven insights**.  
 
